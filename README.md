@@ -1,5 +1,5 @@
 this prject helped me uderstand the various methods 
 
-*like post,get,put and delete* also 
+**like post,get,put and delete** also 
 
-it helped me understand status code what are the use cases of it by using express module 
+it helped me understand **status code** what are the use cases of it by using express module 
